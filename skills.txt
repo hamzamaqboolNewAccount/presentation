@@ -1,3 +1,4 @@
 confidence
 data
 skills
+time managment
